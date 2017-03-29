@@ -1,1 +1,0 @@
-# Single-Vehicle-Obstacles-Challenge
